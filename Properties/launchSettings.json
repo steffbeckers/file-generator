@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "pdf --name Test.pdf --from-html .\\Test.html"
+    }
+  }
+}
